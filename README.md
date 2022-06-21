@@ -7,6 +7,6 @@ Recommender has two main methods:
 
 Fit function must to receive a csv, with at least `item_id`, `user_id`, & `rating` columns.
 
-##  Recommenders implemented
+## Recommenders implemented
 
-- MostPopular recommender, return a list of a top of k items most popular by users.
+- MostPopular recommender, return a list of a top of `k` items most popular by users.
